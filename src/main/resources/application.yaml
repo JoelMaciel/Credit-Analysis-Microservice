@@ -9,4 +9,6 @@ rabbitmq:
   queue:
     proposal:
       pending: proposal-pending.ms-credit-analysis
+  proposal-concluded:
+    exchange: proposal-concluded-exchange
 
